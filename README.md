@@ -1,6 +1,8 @@
 # FantasyFootballProject
 
-Fantasy Football Model Using Past Years To Predict Future Scores (PPR)
+Fantasy Football Model Using Past Years To Predict Future Scores (PPR Scoring Format)
+
+Model takes input of past years' stats and outputs predicted average points per game for the following season. TensorFlow is used for the machine learning aspects and BeautifulSoup is used to pull the data from the FantasyPros website.
 
 Task Of Each File
 
